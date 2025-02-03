@@ -12,3 +12,8 @@ library(fst)
 
 1 + 1
 ```
+
+
+::: {.footer style="text-align: left; padding: 1rem; margin-top: 10rem;"}
+
+© 2025 ADD NAME. All rights reserved. | [Privacy Policy](#) | [Terms of Service](#)
