@@ -1,19 +1,35 @@
 ---
-title: "Quarto Dashboard"
+title: "Quarto Dashboard2"
 ---
 
-Add some more elements here. This is a Quarto website.
+::: {.grid}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.g-col-7}
 
-```{r}
-library(tidyverse)
-library(fst)
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Bla, Bla.
 
-1 + 1
-```
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt Nemo enim ipsam.
 
+![](images/home1.png){.center width="55%" style="border-radius: 8px;"}
+
+:::
+  
+::: {.g-col-4}
+
+
+<!-- Add Twitter Feed -->
+<div>
+  <a class="twitter-timeline" href="https://twitter.com/CyUniTech?ref_src=twsrc%5Etfw">Tweets by CyUniTech</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+
+:::
+  
+:::  
 
 ::: {.footer style="text-align: left; padding: 1rem; margin-top: 10rem;"}
 
-© 2025 ADD NAME. All rights reserved. | [Privacy Policy](#) | [Terms of Service](#)
+© 2024 Digipols. All rights reserved. | [Privacy Policy](#) | [Terms of Service](#)
+
+:::
+
