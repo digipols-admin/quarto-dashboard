@@ -10,17 +10,12 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt Nemo enim ipsam.
 
-![](images/home1.png){.center width="55%" style="border-radius: 8px;"}
-
 :::
   
 ::: {.g-col-4}
 
 
-<!-- Add Twitter Feed -->
-<div>
-  <a class="twitter-timeline" href="https://twitter.com/CyUniTech?ref_src=twsrc%5Etfw">Tweets by CyUniTech</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+![](images/home3.png){.center width="55%" style="border-radius: 8px;"}
 
 
 :::
@@ -29,7 +24,7 @@ Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed 
 
 ::: {.footer style="text-align: left; padding: 1rem; margin-top: 10rem;"}
 
-© 2024 Digipols. All rights reserved. | [Privacy Policy](#) | [Terms of Service](#)
+© 2025 ADD-NAME. All rights reserved. | [Privacy Policy](#) | [Terms of Service](#)
 
 :::
 

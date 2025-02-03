@@ -8,7 +8,23 @@ format:
 
 ## Column {width="35%"}
 
-The popularity of a track is a value between 0 and 100, with 100 being the most popular. The popularity is calculated by algorithm and is based, in the most part, on the total number of plays the track has had and how recent those plays are.
+The popularity of a track is a value between 0 and 100, with 100 being the most popular. 
+
+```{r load-packages}
+#| echo: false
+#| include: false
+library(tidyverse)
+library(DT)
+
+starwars_head <- head(starwars) %>% 
+  select(1:5)
+
+```
+
+```{r table-1}
+DT::datatable(starwars_head)
+```
+
 
 ## Column {width="65%"}
 
@@ -17,13 +33,11 @@ The popularity of a track is a value between 0 and 100, with 100 being the most 
 
 ### Row {height="10%"}
 
-The popularity of a track is a value between 0 and 100, with 100 being the most popular. The popularity is calculated by algorithm and is based, in the most part, on the total number of plays the track has had and how recent those plays are.
-
+The popularity of a track is a value between 0 and 100, with 100 being the most popular.
 ### Row {height="70%"}
 
-The popularity of a track is a value between 0 and 100, with 100 being the most popular. The popularity is calculated by algorithm and is based, in the most part, on the total number of plays the track has had and how recent those plays are.
-
+The popularity of a track is a value between 0 and 100, with 100 being the most popular. 
 
 ### Row {height="20%"}
 
-The popularity of a track is a value between 0 and 100, with 100 being the most popular. The popularity is calculated by algorithm and is based, in the most part, on the total number of plays the track has had and how recent those plays are.
+The popularity of a track is a value between 0 and 100, with 100 being the most popular. 
